@@ -7,4 +7,4 @@ Funcionalidades
 Cadastro de Produtos, participação em leilões e pagamentos e  realizar transações.
 
 Tecnologias Utilizadas
-Netbeans, MySQL, HTML
+Netbeans, MySQL, HTML e GitHub/GitBash
